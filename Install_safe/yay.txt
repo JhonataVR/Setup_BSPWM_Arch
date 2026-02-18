@@ -1,0 +1,10 @@
+bibata-cursor-theme-bin
+firefox-esr-bin
+firefox-esr-bin-debug
+#oracle-xe-11g
+paru-bin
+paru-bin-debug
+rofi-greenclip
+ttf-ms-fonts
+yay-bin
+yay-bin-debug
